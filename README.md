@@ -11,12 +11,9 @@
 </details>
 
 <details>
-<summary>
-	## Table of Contents
-</summary>
+<summary>Table of Contents</summary>
 
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- How to use it
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
@@ -81,7 +78,8 @@
 
 </details>
 
-## Additional Resources
+<details>
+	<summmary>Additional Resources</summary>
 
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
@@ -127,9 +125,9 @@
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
 
----
-
-## How to use it
+</details>
+<details>
+	<summary>How to use it</summary>
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
@@ -164,13 +162,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 `git push --force`
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-
-## Don't feel you aren't smart enough
-
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+</details>
 
 ## Interview Process & General Interview Prep
 
