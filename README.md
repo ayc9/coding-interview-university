@@ -1012,8 +1012,6 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 Now that you know all the computer science topics above, it's time to practice answering coding problems.
 
-**Coding question practice is not about memorizing answers to programming problems.**
-
 Why you need to practice doing programming problems:
 - Problem recognition, and where the right data structures and algorithms fit in
 - Gathering requirements for the problem
@@ -1022,26 +1020,15 @@ Why you need to practice doing programming problems:
 - Coming up with time and space complexity for your solutions
 - Testing your solutions
 
-There is a great intro for methodical, communicative problem solving in an interview. You'll get this from the programming
-interview books, too, but I found this outstanding:
 [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/)
 
-No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard. Instead of a whiteboard, pick up a
-large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
-I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick. I use a pencil 
-and eraser.
-
-![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
-
 Supplemental:
-
 - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 - [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - [MIT Interview Materials](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
 - [Exercises for getting better at a given language](http://exercism.io/languages)
 
 **Read and Do Programming Problems (in this order):**
-
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
@@ -1108,7 +1095,6 @@ Have a story, not just data, about something you accomplished.
 - What would you have done better at [job x / project y]?
 
 ## Have questions for the interviewer
-
 - How large is your team?
 - What does your dev cycle look like? Do you do waterfall/sprints/agile?
 - Are rushes to deadlines common? Or is there flexibility?
@@ -1119,9 +1105,7 @@ Have a story, not just data, about something you accomplished.
 - What do you like about it?
 - What is the work life like?
 - How is work/life balance?
-
 ## Additional Books
-
 - [The Unix Programming Environment](https://www.amazon.com/dp/013937681X)
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
