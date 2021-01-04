@@ -10,7 +10,8 @@
 
 </details>
 
-## Table of Contents
+<details>
+<summary>## Table of Contents</summary>
 
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -76,7 +77,7 @@
 - [Have questions for the interviewer](#have-questions-for-the-interviewer)
 - [Once You've Got The Job](#once-youve-got-the-job)
 
----------------- Everything below this point is optional ----------------
+</details>
 
 ## Additional Resources
 
