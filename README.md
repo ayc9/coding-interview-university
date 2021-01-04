@@ -11,7 +11,9 @@
 </details>
 
 <details>
-<summary>## Table of Contents</summary>
+<summary>
+	## Table of Contents
+</summary>
 
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
